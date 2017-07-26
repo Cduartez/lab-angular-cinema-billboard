@@ -21,7 +21,8 @@ export class CinemaService {
         "William Sadler",
         "Clancy Brown",
         "Gil Bellows"
-      ]
+      ],
+      room: 1
     }, {
       id: 2,
       title: "The Godfather",
@@ -39,7 +40,8 @@ export class CinemaService {
         "Richard S. Castellano",
         "Robert Duvall",
         "Sterling Hayden"
-      ]
+      ],
+      room: 2
     }, {
       id: 3,
       title: "The Godfather Part II",
@@ -57,7 +59,8 @@ export class CinemaService {
         "Robert De Niro",
         "John Cazale",
         "Talia Shire"
-      ]
+      ],
+      room: 3
     }, {
       id: 4,
       title: "The Dark Knight",
@@ -75,7 +78,8 @@ export class CinemaService {
         "Michael Caine",
         "Maggie Gyllenhaal",
         "Gary Oldman"
-      ]
+      ],
+      room: 4
     }, {
       id: 5,
       title: "Schindler's List",
@@ -93,7 +97,8 @@ export class CinemaService {
         "Caroline Goodall",
         "Jonathan Sagall",
         "Embeth Davidtz"
-      ]
+      ],
+      room: 5
     }
   ]
 
